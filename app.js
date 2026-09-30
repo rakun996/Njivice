@@ -11,8 +11,8 @@ const FORM_ENDPOINT = '';
 
 const I18N = {
   sr: {
-    'meta.title': 'Nivice Apartmani — Apartmani u Herceg Novom, Crna Gora',
-    'meta.desc': 'Nivice Apartmani — četiri apartmana za kratkoročni najam u Herceg Novom, Crna Gora. Od 70 EUR po noći.',
+    'meta.title': 'Njivice Apartmani — Apartmani u Herceg Novom, Crna Gora',
+    'meta.desc': 'Njivice Apartmani — četiri apartmana za kratkoročni najam u Herceg Novom, Crna Gora. Od 70 EUR po noći.',
     'a11y.skip': 'Preskoči na sadržaj',
     'a11y.nav': 'Glavna navigacija',
     'a11y.menu': 'Meni',
@@ -20,7 +20,7 @@ const I18N = {
     'a11y.close': 'Zatvori',
     'a11y.prev': 'Prethodna',
     'a11y.next': 'Sledeća',
-    'brand.name': 'Nivice Apartmani',
+    'brand.name': 'Njivice Apartmani',
     'brand.sub': 'Herceg Novi · Crna Gora',
     'nav.home': 'Početna',
     'nav.apartments': 'Apartmani',
@@ -111,8 +111,8 @@ const I18N = {
   },
 
   en: {
-    'meta.title': 'Nivice Apartmani — Apartments in Herceg Novi, Montenegro',
-    'meta.desc': 'Nivice Apartmani — four short-term rental apartments in Herceg Novi, Montenegro. From 70 EUR per night.',
+    'meta.title': 'Njivice Apartmani — Apartments in Herceg Novi, Montenegro',
+    'meta.desc': 'Njivice Apartmani — four short-term rental apartments in Herceg Novi, Montenegro. From 70 EUR per night.',
     'a11y.skip': 'Skip to content',
     'a11y.nav': 'Main navigation',
     'a11y.menu': 'Menu',
@@ -120,7 +120,7 @@ const I18N = {
     'a11y.close': 'Close',
     'a11y.prev': 'Previous',
     'a11y.next': 'Next',
-    'brand.name': 'Nivice Apartmani',
+    'brand.name': 'Njivice Apartmani',
     'brand.sub': 'Herceg Novi · Montenegro',
     'nav.home': 'Home',
     'nav.apartments': 'Apartments',
@@ -135,7 +135,7 @@ const I18N = {
     'hero.cta': 'Send inquiry',
     'hero.cta2': 'View apartments',
     'intro.rate': 'All apartments — from 70 EUR per night',
-    'intro.text': 'Nivice Apartmani offers four furnished apartments in the same building. Each apartment has its own entrance, kitchen and bathroom, and guests also have shared amenities at their disposal.',
+    'intro.text': 'Njivice Apartmani offers four furnished apartments in the same building. Each apartment has its own entrance, kitchen and bathroom, and guests also have shared amenities at their disposal.',
     'apt.title': 'Our apartments',
     'apt.lead': 'Four apartments, one standard and one starting price.',
     'apt.price': 'from 70 EUR / night',
